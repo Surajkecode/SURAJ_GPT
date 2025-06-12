@@ -2,7 +2,8 @@
 
 Suraj GPT is an intelligent assistant application inspired by ChatGPT. It leverages modern AI technologies and the Google API to provide helpful responses across various domains like coding, general queries, medical advice, and legal information.
 
-![Suraj GPT Screenshot](public/screenshot.png) <!-- Replace with your screenshot path -->
+![image](https://github.com/user-attachments/assets/ddf844a3-8f7e-45ff-af19-d6e741f0c01f)
+ 
 
 ---
 
